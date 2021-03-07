@@ -17,3 +17,8 @@ npm run serve
 ```
 npm run build
 ```
+### hosting the app  
+```
+https://affectionate-villani-69e0b7.netlify.app/
+```
+
